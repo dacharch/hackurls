@@ -7,8 +7,8 @@ Find Urls from any website
 git clone https://github.com/dacharch/hackurls
 
 
-# How to Run
+# How to Use
 
-python3 hackurls.py
+python3 hackurls.py <domain>
 
 
