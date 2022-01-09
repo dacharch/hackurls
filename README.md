@@ -2,7 +2,7 @@
 
 Find Urls from any website
 
-#Install
+# Install
 
 git clone https://github.com/dacharch/hackurls
 
