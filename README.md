@@ -9,6 +9,6 @@ git clone https://github.com/dacharch/hackurls
 
 # How to Use
 
-python3 hackurls.py domain name
+python3 hackurls.py domain_name
 
 
